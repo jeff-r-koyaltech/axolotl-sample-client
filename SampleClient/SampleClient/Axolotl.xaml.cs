@@ -107,7 +107,7 @@ namespace SampleClient
             AppendLine("Bob sends: " + Convert.ToBase64String(ctMsg.serialize()));
 
             //==============================================
-            //Alice sends the cipher text over the Internet
+            //Bob sends the cipher text over the Internet
             //==============================================
             #endregion
 
